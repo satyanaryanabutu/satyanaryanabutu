@@ -101,7 +101,7 @@
 
 ## ✍️ Developer Quote
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;—+Linus+Torvalds)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
