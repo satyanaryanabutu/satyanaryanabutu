@@ -101,7 +101,7 @@
 
 ## ✍️ Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
 
 
 
