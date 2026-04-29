@@ -98,9 +98,9 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=saipatrana&theme=radical)
 
 
-## ✍️ Developer Quote
+## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I’m%20not%20a%20great%20programmer;%20I’m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
