@@ -98,9 +98,10 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=saipatrana&theme=radical)
 
 
+
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1)
 
 
 
